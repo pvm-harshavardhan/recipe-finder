@@ -2,7 +2,7 @@
 
 A modern, responsive recipe discovery app built with HTML, Tailwind CSS, and JavaScript that lets food lovers instantly search, discover, and explore random or specific recipes from around the world. Powered by the Random Recipes API from RapidAPI, it features filtering by category or vegetarian options, the ability to save favourites, and presents everything in a beautiful glassmorphism UI with smooth animations, seamless transitions, and an intuitive user experience.
 
-> 🌐 **Live Demo:** _Add your deployment link here_
+> 🌐 **Live Demo:** [View Recipe Finder App](https://pvm-harshavardhan.github.io/recipe-finder/)
 
 ![App Screenshot](./project_screenshot.png)
 
